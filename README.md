@@ -8,6 +8,10 @@ The necessary api routes are based on the calls the frontend made (public *.js f
 
 I was left a little confused about some front-end functionality and believe there are some issues on that end.
 
+## Heroku
+
+[johns-fitness-tracker.herokuapp.com](https://johns-fitness-tracker.herokuapp.com/)
 
 
-
+## Github
+[https://github.com/Jtelban1/workout-tracker.git]
